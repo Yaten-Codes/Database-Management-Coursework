@@ -1,0 +1,16 @@
+difference and intersection dont have specific sql cmnd so use specific one
+
+from salesrep
+
+NOT IN (DIFFERENCE)
+TECHSALESREP
+
+
+FROMSALESREP
+IN (intersection)
+TECHSALESREP
+
+
+USING inner join:
+select * -- everything similar in both rows
+from salesrep = TECHSALESREP

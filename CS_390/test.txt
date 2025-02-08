@@ -1,0 +1,11 @@
+CREATE TABLE supplier (
+supplierID SMALLINT UNSIGNED AUTO_INCREMENT,
+supplierName VARCHAR(40) NOT NULL,
+phone VARCHAR(14) NOT NULL,
+email VARCHAR(60) NULL,
+CONSTRAINT supplier_supplierID_pk PRIMARY KEY (SupplierID)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+
+create database conman;
+use conman;
