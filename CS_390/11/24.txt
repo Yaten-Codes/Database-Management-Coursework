@@ -1,4 +1,0 @@
-Relational algebra operation                SQL Command
-----------------------------                --------------
-1.) Projection                  ---->       SELECT
-2.) Selection                   ---->       WHERE
