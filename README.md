@@ -64,9 +64,4 @@ This coursework provided a solid foundation for working with relational database
 
 ---
 
-### **🔗 How to Use This Repository**  
-1. Clone the repo and explore the SQL files.  
-2. Run them in a SQL-compatible DBMS (MySQL, PostgreSQL, etc.).  
-3. Modify and experiment with queries to deepen understanding.  
-
 **🚀 Ready to apply these skills in real-world database projects!**  
